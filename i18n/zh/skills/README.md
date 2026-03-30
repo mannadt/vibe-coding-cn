@@ -1,6 +1,6 @@
 # 🎯 AI Skills 技能库
 
-`i18n/zh/skills/` 目录存放 AI 技能（Skills），这些是比提示词更高级的能力封装，可以让 AI 在特定领域表现出专家级水平。当前包含 **18 个**专业技能。
+`i18n/zh/skills/` 目录存放 AI 技能（Skills），这些是比提示词更高级的能力封装，可以让 AI 在特定领域表现出专家级水平。当前包含 **19 个**专业技能。
 
 ## 目录结构
 
@@ -33,7 +33,8 @@ i18n/zh/skills/
     ├── telegram-dev/        # Telegram Bot 开发
     ├── twscrape/            # Twitter/X 数据抓取
     ├── snapdom/             # DOM 快照工具
-    └── proxychains/         # 代理链配置
+    ├── proxychains/         # 代理链配置
+    └── python-get-ip/       # Python 获取主机 IP 地址
 ```
 
 ## Skills 一览表
@@ -79,6 +80,7 @@ i18n/zh/skills/
 | [twscrape](./04-开发工具/twscrape/SKILL.md) | Twitter/X 数据抓取 |
 | [snapdom](./04-开发工具/snapdom/SKILL.md) | DOM 快照与测试 |
 | [proxychains](./04-开发工具/proxychains/SKILL.md) | 代理链配置与使用 |
+| [python-get-ip](./04-开发工具/python-get-ip/SKILL.md) | Python 获取主机 IP 地址 |
 
 ## 快速使用
 
